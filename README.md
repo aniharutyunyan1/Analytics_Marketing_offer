@@ -1,1 +1,1 @@
-# Analytics_Marketing_offer
+# Predicting marketing offer response and increasing lift
